@@ -1,13 +1,13 @@
 # Welcome to Homescape
 
-//![Homescape Logo](https://example.com/homescape-logo.png)
+![Homescape Logo](https://example.com/homescape-logo.png)
 
 ## About Us
 
 Welcome to the official GitHub organization of Homescape, your go-to platform for all things related to property listings. We are a passionate team dedicated to revolutionizing the way people buy, sell, and rent properties.
 
 - **Website:** [https://www.homescape.com](https://github.com/Homescapex)
-//- **Contact Us:** [contact@homescape.com](mailto:contact@homescape.com)
+- **Contact Us:** [contact@homescape.com](https://github.com/Homescapex)
 
 ## Our Vision
 
